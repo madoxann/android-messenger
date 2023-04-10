@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paper_clip">Paper clip</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
+    <string name="downward_arrow">⬇</string>
+    <string name="user_image">User image</string>
+    <string name="user_image_other">User image</string>
+    <string name="input_disabled">**only message OR text**</string>
+</resources>
